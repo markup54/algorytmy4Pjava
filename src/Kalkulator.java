@@ -1,7 +1,10 @@
 import java.util.ArrayList;
 
 public class Kalkulator {
-
+//TODO: rozklad na czynniki pierwsz
+//TODO: dzielniki liczby
+//TODO: liczby półpierwsze
+//TODO: liczba doskonała
     private static int nwd(int a,int b){
         while (b!=0){
             int r = a%b;
